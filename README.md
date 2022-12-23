@@ -6,5 +6,7 @@ This program will convert the 2352 mode file into correct file size which must b
 Usage:
 
 strcopy example.str example.tmp
+
 del example.str
+
 ren example.tmp example.str
